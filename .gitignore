@@ -1,0 +1,16 @@
+# API Keys & 環境設定（絕對不能上傳）
+.env
+
+# Python 虛擬環境
+.venv/
+
+# Python 編譯快取
+__pycache__/
+*.pyc
+*.pyo
+
+# 資料庫檔案（通常不需要版本控制）
+*.db
+
+# VS Code 設定
+.vscode/

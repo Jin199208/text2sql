@@ -157,9 +157,8 @@ def text2sql(question: str) -> dict:
 if __name__ == "__main__":
     # 測試幾個問題
     test_questions = [
-        "2024 年第三季哪種異常最多？"
-        
-    ]
+        "2024 年第三季哪種異常最多ㄚㄚㄚㄚ啊??"
+            ]
 
     for i, q in enumerate(test_questions):
         output = text2sql(q)
